@@ -13,6 +13,7 @@
     "io.extendreality.tilia.indicators.objectpointers.unity": "2.1.7",
     "io.extendreality.tilia.input.unityinputsystem": "2.1.0",
     "io.extendreality.tilia.locomotors.teleporter.unity": "2.1.0",
+    "io.extendreality.tilia.visuals.collisionfader.unity": "2.1.5",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
