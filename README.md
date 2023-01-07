@@ -10,12 +10,18 @@ This repository is a project for the [Unity] software that contains a collection
 
 The current scenes and accompanying YouTube videos are:
 
-* `Assets/Scenes/0001 - Curved Pointer with OpenXR` - https://www.youtube.com/watch?v=xx9nJJ6hYio
-* `Assets/Scenes/0002 - Invalid Pointer Targets with Rules` - https://www.youtube.com/watch?v=GILtPiHJKOo
-* `Assets/Scenes/0003 - Customising the design of a Curved Pointer` - https://www.youtube.com/watch?v=L-EDz0kHur4
-* `Assets/Scenes/0004 - Instant Teleporting` - https://www.youtube.com/watch?v=cguaIZzv-Eg
-* `Assets/Scenes/0005 - Prevent Teleporting on top of Objects` - https://www.youtube.com/watch?v=6JmXiK_hkg8
-* `Assets/Scenes/0006 - Teleporting on Collision to a Known Location` - https://www.youtube.com/watch?v=bDRIEtoouag
+* `Assets/Scenes/0001 - Curved Pointer with OpenXR`
+  * https://www.youtube.com/watch?v=xx9nJJ6hYio
+* `Assets/Scenes/0002 - Invalid Pointer Targets with Rules`
+  * https://www.youtube.com/watch?v=GILtPiHJKOo
+* `Assets/Scenes/0003 - Customising the design of a Curved Pointer`
+  * https://www.youtube.com/watch?v=L-EDz0kHur4
+* `Assets/Scenes/0004 - Instant Teleporting`
+  * https://www.youtube.com/watch?v=cguaIZzv-Eg
+* `Assets/Scenes/0005 - Prevent Teleporting on top of Objects`
+  * https://www.youtube.com/watch?v=6JmXiK_hkg8
+* `Assets/Scenes/0006 - Teleporting on Collision to a Known Location`
+  * https://www.youtube.com/watch?v=bDRIEtoouag
 
 ## Getting Started
 
