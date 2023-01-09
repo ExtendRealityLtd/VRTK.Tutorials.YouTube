@@ -22,6 +22,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=6JmXiK_hkg8
 * `Assets/Scenes/0006 - Teleporting on Collision to a Known Location`
   * https://www.youtube.com/watch?v=bDRIEtoouag
+* `Assets/Scenes/0007 - Activating a Pointer with Thumbstick Direction`
+  * https://www.youtube.com/watch?v=NDsbFGkRvFs
 
 ## Getting Started
 
