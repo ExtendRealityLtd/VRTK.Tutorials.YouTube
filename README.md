@@ -24,6 +24,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=bDRIEtoouag
 * `Assets/Scenes/0007 - Activating a Pointer with Thumbstick Direction`
   * https://www.youtube.com/watch?v=NDsbFGkRvFs
+* `Assets/Scenes/0008 - Rotating Pointer Cursor with Thumbstick`
+  * https://www.youtube.com/watch?v=wndyI-pcQS8
 
 ## Getting Started
 
