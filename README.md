@@ -26,6 +26,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=NDsbFGkRvFs
 * `Assets/Scenes/0008 - Rotating Pointer Cursor with Thumbstick`
   * https://www.youtube.com/watch?v=wndyI-pcQS8
+* `Assets/Scenes/0009 - Adding Teleport Target Points`
+  * https://www.youtube.com/watch?v=VIoyD3Dx3WQ
 
 ## Getting Started
 
