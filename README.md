@@ -30,6 +30,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=VIoyD3Dx3WQ
 * `Assets/Scenes/0010 - Pointer Rules for Teleport Targets`
   * https://www.youtube.com/watch?v=0S8I_LSM_qQ
+* `Assets/Scenes/0011 - Offset Teleport Target Point Destination`
+  * https://www.youtube.com/watch?v=DGd7G30LnbY
 
 ## Getting Started
 
