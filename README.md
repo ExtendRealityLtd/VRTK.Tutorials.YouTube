@@ -26,12 +26,14 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=NDsbFGkRvFs
 * `Assets/Scenes/0008 - Rotating Pointer Cursor with Thumbstick`
   * https://www.youtube.com/watch?v=wndyI-pcQS8
-* `Assets/Scenes/0009 - Adding Teleport Target Points`
+* `Assets/Scenes/0009 - Teleport Target Points`
   * https://www.youtube.com/watch?v=VIoyD3Dx3WQ
 * `Assets/Scenes/0010 - Pointer Rules for Teleport Targets`
   * https://www.youtube.com/watch?v=0S8I_LSM_qQ
 * `Assets/Scenes/0011 - Offset Teleport Target Point Destination`
   * https://www.youtube.com/watch?v=DGd7G30LnbY
+* `Assets/Scenes/0012 - Teleport Target Areas`
+  * https://www.youtube.com/watch?v=Se92IOCl1Fo
 
 ## Getting Started
 
