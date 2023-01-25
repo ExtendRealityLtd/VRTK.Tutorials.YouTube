@@ -34,6 +34,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=DGd7G30LnbY
 * `Assets/Scenes/0012 - Teleport Target Areas`
   * https://www.youtube.com/watch?v=Se92IOCl1Fo
+* `Assets/Scenes/0013 - Teleport Targets and Free Teleporting`
+  * https://www.youtube.com/watch?v=bfvQIBPQvxo
 
 ## Getting Started
 
