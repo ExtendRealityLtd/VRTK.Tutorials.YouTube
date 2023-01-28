@@ -36,6 +36,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=Se92IOCl1Fo
 * `Assets/Scenes/0013 - Teleport Targets and Free Teleporting`
   * https://www.youtube.com/watch?v=bfvQIBPQvxo
+* `Assets/Scenes/0014 - Interacting with Objects`
+  * https://www.youtube.com/watch?v=2_i-qZ3xznA
 
 ## Getting Started
 

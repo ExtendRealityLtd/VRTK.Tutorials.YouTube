@@ -266,6 +266,15 @@
       },
       "url": "https://registry.npmjs.org"
     },
+    "io.extendreality.tilia.interactions.interactables.unity": {
+      "version": "2.7.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "io.extendreality.zinnia.unity": "2.3.0"
+      },
+      "url": "https://registry.npmjs.org"
+    },
     "io.extendreality.tilia.locomotors.teleporter.unity": {
       "version": "2.1.0",
       "depth": 0,
@@ -302,7 +311,7 @@
       "url": "https://registry.npmjs.org"
     },
     "io.extendreality.tilia.visuals.collisionfader.unity": {
-      "version": "2.1.5",
+      "version": "2.1.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
