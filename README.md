@@ -42,6 +42,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=73hrlyL2g8g
 * `Assets/Scenes/0016 - Prevent Fading View on Interaction Collisions`
   * https://www.youtube.com/watch?v=RBHjmCQA5UA
+* `Assets/Scenes/0017 - Allow Pointer Beam to Ignore Grabbed Objects`
+  * https://www.youtube.com/watch?v=jaT1RVrkcNY
 
 ## Getting Started
 
