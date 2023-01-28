@@ -40,6 +40,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=2_i-qZ3xznA
 * `Assets/Scenes/0015 - Prevent Teleporting on top of Interactables`
   * https://www.youtube.com/watch?v=73hrlyL2g8g
+* `Assets/Scenes/0016 - Prevent Fading View on Interaction Collisions`
+  * https://www.youtube.com/watch?v=RBHjmCQA5UA
 
 ## Getting Started
 
