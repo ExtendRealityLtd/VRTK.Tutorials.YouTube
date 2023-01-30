@@ -44,6 +44,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=RBHjmCQA5UA
 * `Assets/Scenes/0017 - Allow Pointer Beam to Ignore Grabbed Objects`
   * https://www.youtube.com/watch?v=jaT1RVrkcNY
+* `Assets/Scenes/0018 - Precisely Grab Objects at point of Touch`
+  * https://www.youtube.com/watch?v=dBWoiO_cLfM
 
 ## Getting Started
 
