@@ -46,6 +46,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=jaT1RVrkcNY
 * `Assets/Scenes/0018 - Precisely Grab Objects at point of Touch`
   * https://www.youtube.com/watch?v=dBWoiO_cLfM
+* `Assets/Scenes/0019 - Grab Object with a Specific Orientation`
+  * https://www.youtube.com/watch?v=dqznTfohV8g
 
 ## Getting Started
 
