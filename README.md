@@ -50,6 +50,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=dqznTfohV8g
 * `Assets/Scenes/0020 - Physics tracked Interactable Objects`
   * https://www.youtube.com/watch?v=9gMeb2nnNOA
+* `Assets/Scenes/0021 - Hide Controllers when Grabbing Objects`
+  * https://www.youtube.com/watch?v=VYxfF0WyL8Y
 
 ## Getting Started
 
