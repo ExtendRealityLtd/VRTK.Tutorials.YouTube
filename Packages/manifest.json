@@ -16,6 +16,7 @@
     "io.extendreality.tilia.interactions.interactables.unity": "2.7.1",
     "io.extendreality.tilia.locomotors.teleporter.unity": "2.1.1",
     "io.extendreality.tilia.locomotors.teleporttargets.unity": "2.0.10",
+    "io.extendreality.tilia.trackers.colliderfollower.unity": "2.2.2",
     "io.extendreality.tilia.visuals.collisionfader.unity": "2.1.8",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
