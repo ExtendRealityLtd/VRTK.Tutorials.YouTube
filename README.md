@@ -54,6 +54,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=VYxfF0WyL8Y
 * `Assets/Scenes/0022 - Physics Tracked Interactors`
   * https://www.youtube.com/watch?v=KtXUHWzKuBs
+* `Assets/Scenes/0023 - Dealing with Diverged Interactions`
+  * https://www.youtube.com/watch?v=5d1Y0NFXxdY
 
 ## Getting Started
 
