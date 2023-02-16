@@ -56,6 +56,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=KtXUHWzKuBs
 * `Assets/Scenes/0023 - Dealing with Diverged Interactions`
   * https://www.youtube.com/watch?v=5d1Y0NFXxdY
+* `Assets/Scenes/0024 - Two Hand Grabbing Control Direction`
+  * https://www.youtube.com/watch?v=hEQmFUYV73M
 
 ## Getting Started
 
