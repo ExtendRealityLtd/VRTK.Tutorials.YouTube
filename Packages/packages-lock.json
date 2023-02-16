@@ -267,7 +267,7 @@
       "url": "https://registry.npmjs.org"
     },
     "io.extendreality.tilia.interactions.interactables.unity": {
-      "version": "2.8.2",
+      "version": "2.9.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {

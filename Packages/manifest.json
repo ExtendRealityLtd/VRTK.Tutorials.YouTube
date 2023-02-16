@@ -13,7 +13,7 @@
     "io.extendreality.tilia.indicators.objectpointers.unity": "2.1.7",
     "io.extendreality.tilia.input.combinedactions.unity": "2.0.5",
     "io.extendreality.tilia.input.unityinputsystem": "2.1.1",
-    "io.extendreality.tilia.interactions.interactables.unity": "2.8.2",
+    "io.extendreality.tilia.interactions.interactables.unity": "2.9.1",
     "io.extendreality.tilia.locomotors.teleporter.unity": "2.1.1",
     "io.extendreality.tilia.locomotors.teleporttargets.unity": "2.0.10",
     "io.extendreality.tilia.trackers.colliderfollower.unity": "2.3.0",
