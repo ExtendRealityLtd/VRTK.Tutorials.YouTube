@@ -60,6 +60,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=hEQmFUYV73M
 * `Assets/Scenes/0025 - Two Hand Grabbing Scale Size`
   * https://www.youtube.com/watch?v=4FNt2VM8shY
+* `Assets/Scenes/0026 - Two Hand Grabbing Both Hand Pickup`
+  * https://www.youtube.com/watch?v=5d-zzBqiepg
 
 ## Getting Started
 
