@@ -62,8 +62,10 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=4FNt2VM8shY
 * `Assets/Scenes/0026 - Two Hand Grabbing Both Hand Pickup`
   * https://www.youtube.com/watch?v=5d-zzBqiepg
-* `Assets/Scenes/0027 - Passing Single Input to an Interactable.unity`
+* `Assets/Scenes/0027 - Passing Single Input to an Interactable`
   * https://www.youtube.com/watch?v=heM4AjsxynA
+* `0028 - Passing Multiple Inputs to an Interactable`
+  * https://www.youtube.com/watch?v=JDU8bVmTZPk
 
 ## Getting Started
 
