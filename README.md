@@ -68,6 +68,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=JDU8bVmTZPk
 * `Assets/Scenes/0029 - Introduction to Controllables`
   * https://www.youtube.com/watch?v=Kfgxte1kB5c
+* `Assets/Scenes/0030 - Creating an Interactable Drawer`
+  * https://www.youtube.com/watch?v=MnSaKUGQx8c
 
 ## Getting Started
 
