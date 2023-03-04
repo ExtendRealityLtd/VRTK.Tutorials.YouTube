@@ -70,6 +70,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=Kfgxte1kB5c
 * `Assets/Scenes/0030 - Creating an Interactable Drawer`
   * https://www.youtube.com/watch?v=MnSaKUGQx8c
+* `Assets/Scenes/0031 - Creating an Interactable Lever`
+  * https://www.youtube.com/watch?v=DwMDFWdwapk
 
 ## Getting Started
 
