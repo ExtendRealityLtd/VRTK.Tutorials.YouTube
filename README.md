@@ -72,6 +72,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=MnSaKUGQx8c
 * `Assets/Scenes/0031 - Creating an Interactable Lever`
   * https://www.youtube.com/watch?v=DwMDFWdwapk
+* `Assets/Scenes/0032 - Creating an Interactable Slider`
+  * https://www.youtube.com/watch?v=cKpXwxFQGT4
 
 ## Getting Started
 
