@@ -74,6 +74,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=DwMDFWdwapk
 * `Assets/Scenes/0032 - Creating an Interactable Slider`
   * https://www.youtube.com/watch?v=cKpXwxFQGT4
+* `Assets/Scenes/0033 - Creating a Simple Interactable Door`
+  * https://www.youtube.com/watch?v=YjOKyVG5UBQ
 
 ## Getting Started
 
