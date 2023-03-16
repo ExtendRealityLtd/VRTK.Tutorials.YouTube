@@ -78,6 +78,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=YjOKyVG5UBQ
 * `Assets/Scenes/0034 - Creating an Interactable Wheel`
   * https://www.youtube.com/watch?v=VG4KbLMl2Ns
+* `Assets/Scenes/0035 - Creating an Interactable Dial`
+  * https://www.youtube.com/watch?v=S0eGtKMyiO8
 
 ## Getting Started
 
