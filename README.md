@@ -80,6 +80,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=VG4KbLMl2Ns
 * `Assets/Scenes/0035 - Creating an Interactable Dial`
   * https://www.youtube.com/watch?v=S0eGtKMyiO8
+* `Assets/Scenes/0036 - Creating an Interactable Physics Button`
+  * https://www.youtube.com/watch?v=RDEOgZvQ89A
 
 ## Getting Started
 
