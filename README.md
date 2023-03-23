@@ -82,6 +82,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=S0eGtKMyiO8
 * `Assets/Scenes/0036 - Creating an Interactable Physics Button`
   * https://www.youtube.com/watch?v=RDEOgZvQ89A
+* `Assets/Scenes/0037 - Creating an Interactable Artificial Button`
+  * https://www.youtube.com/watch?v=apUTU4gS0Wk
 
 ## Getting Started
 
