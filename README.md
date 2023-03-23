@@ -8,10 +8,19 @@
 
 This repository is a project for the [Unity] software that contains a collection of scenes showcasing functionality of [VRTK v4] and the [Tilia] packages.
 
+The following videos show how to get the project set up:
+
+* Installing the VRTK v4 Tilia Package Importer
+  * https://www.youtube.com/watch?v=PwiHIeOvewg
+* Setting up the OpenXR CameraRig
+  * https://www.youtube.com/watch?v=HQBu8iJ0Hyo
+* Using the Unity Input System with VRTK v4
+  * https://www.youtube.com/watch?v=BV9iLr9IprI
+
 The current scenes and accompanying YouTube videos are:
 
-* `Assets/Scenes/0001 - Curved Pointer with OpenXR`
-  * https://www.youtube.com/watch?v=xx9nJJ6hYio
+* `Assets/Scenes/0001 - Adding a Curved Pointer`
+  * https://www.youtube.com/watch?v=-fsc5ielvMI
 * `Assets/Scenes/0002 - Invalid Pointer Targets with Rules`
   * https://www.youtube.com/watch?v=GILtPiHJKOo
 * `Assets/Scenes/0003 - Customising the design of a Curved Pointer`
