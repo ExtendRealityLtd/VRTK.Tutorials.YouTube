@@ -99,6 +99,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=lCsX0ehSt-U
 * `Assets/Scenes/0040 - Combining Controllables with Interactables`
   * https://www.youtube.com/watch?v=GFHLwsjT9jI
+* `Assets/Scenes/0041 - Dynamic Interactions from Grabbed Collider`
+  * https://www.youtube.com/watch?v=Im1kePlwHs0
 
 ## Getting Started
 
