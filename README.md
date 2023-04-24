@@ -97,6 +97,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=do_qj7Awf3c
 * `Assets/Scenes/0039 - Controlling Values with Controllables`
   * https://www.youtube.com/watch?v=lCsX0ehSt-U
+* `Assets/Scenes/0040 - Combining Controllables with Interactables`
+  * https://www.youtube.com/watch?v=GFHLwsjT9jI
 
 ## Getting Started
 
