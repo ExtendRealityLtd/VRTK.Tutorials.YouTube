@@ -95,6 +95,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=apUTU4gS0Wk
 * `Assets/Scenes/0038 - Switching to the Dominant Controller`
   * https://www.youtube.com/watch?v=do_qj7Awf3c
+* `Assets/Scenes/0039 - Controlling Values with Controllables`
+  * https://www.youtube.com/watch?v=lCsX0ehSt-U
 
 ## Getting Started
 
