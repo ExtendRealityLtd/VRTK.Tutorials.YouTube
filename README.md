@@ -107,6 +107,8 @@ The current scenes and accompanying YouTube videos are:
    * https://www.youtube.com/watch?v=AFHisaJVyxU
 * `Assets/Scenes/0044 - Snapping Interactables to a Fixed Location`
   * https://www.youtube.com/watch?v=puHN7CLsgfo
+* `Assets/Scenes/0045 - Limiting Objects To Snap Zones`
+  * https://www.youtube.com/watch?v=rmhK305QHqk
 
 ## Getting Started
 
