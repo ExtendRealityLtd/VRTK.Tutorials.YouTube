@@ -227,7 +227,7 @@
       "url": "https://registry.npmjs.org"
     },
     "io.extendreality.tilia.input.unityinputsystem": {
-      "version": "2.4.4",
+      "version": "2.4.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {
