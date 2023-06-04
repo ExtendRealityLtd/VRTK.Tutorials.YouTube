@@ -16,6 +16,7 @@
     "io.extendreality.tilia.interactions.controllables.unity": "2.10.14",
     "io.extendreality.tilia.interactions.interactables.unity": "2.15.0",
     "io.extendreality.tilia.interactions.pointerinteractors.unity": "2.3.2",
+    "io.extendreality.tilia.interactions.snapzone.unity": "2.3.0",
     "io.extendreality.tilia.locomotors.teleporter.unity": "2.1.12",
     "io.extendreality.tilia.locomotors.teleporttargets.unity": "2.1.11",
     "io.extendreality.tilia.mutators.collisionignorer.unity": "2.0.16",

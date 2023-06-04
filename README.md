@@ -105,6 +105,8 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=DF0Owxpr6SY
 * `Assets/Scenes/0043 - Use The Force to Grab at Distance`
    * https://www.youtube.com/watch?v=AFHisaJVyxU
+* `Assets/Scenes/0044 - Snapping Interactables to a Fixed Location`
+  * https://www.youtube.com/watch?v=puHN7CLsgfo
 
 ## Getting Started
 
