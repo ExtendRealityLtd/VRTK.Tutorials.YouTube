@@ -23,6 +23,7 @@
     "io.extendreality.tilia.mutators.collisionignorer.unity": "2.0.16",
     "io.extendreality.tilia.trackers.colliderfollower.unity": "2.3.22",
     "io.extendreality.tilia.visuals.collisionfader.unity": "2.1.31",
+    "io.extendreality.tilia.visuals.vignette.unity": "1.0.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
