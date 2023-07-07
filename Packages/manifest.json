@@ -22,6 +22,7 @@
     "io.extendreality.tilia.locomotors.teleporttargets.unity": "2.1.15",
     "io.extendreality.tilia.mutators.collisionignorer.unity": "2.0.17",
     "io.extendreality.tilia.trackers.colliderfollower.unity": "2.3.24",
+    "io.extendreality.tilia.trackers.pseudobody.unity": "2.2.0",
     "io.extendreality.tilia.visuals.collisionfader.unity": "2.1.33",
     "io.extendreality.tilia.visuals.vignette.unity": "1.0.2",
     "com.unity.modules.ai": "1.0.0",
