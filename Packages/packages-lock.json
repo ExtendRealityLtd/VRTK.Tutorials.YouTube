@@ -300,6 +300,17 @@
       },
       "url": "https://registry.npmjs.org"
     },
+    "io.extendreality.tilia.locomotors.climbing.unity": {
+      "version": "2.4.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "io.extendreality.zinnia.unity": "2.15.0",
+        "io.extendreality.tilia.trackers.pseudobody.unity": "2.3.0",
+        "io.extendreality.tilia.interactions.interactables.unity": "2.16.6"
+      },
+      "url": "https://registry.npmjs.org"
+    },
     "io.extendreality.tilia.locomotors.teleporter.unity": {
       "version": "2.2.0",
       "depth": 0,
