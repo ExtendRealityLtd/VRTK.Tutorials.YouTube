@@ -17,6 +17,33 @@ The following videos show how to get the project set up:
 * Using the Unity Input System with VRTK v4
   * https://www.youtube.com/watch?v=BV9iLr9IprI
 
+## Getting Started
+
+### Downloading the project
+
+* Download this project repository to your local machine using *one* of the following methods:
+  * Git clone the repository with `git clone https://github.com/ExtendRealityLtd/VRTK.Tutorials.YouTube.git`
+  * Download the zip file at `https://github.com/ExtendRealityLtd/VRTK.Tutorials.YouTube/archive/main.zip` and extract it.
+
+### Opening the downloaded project in the Unity software
+
+> *Do not* drag and drop this project download into an existing Unity project. This repository download *is a Unity project* already and you should not nest a Unity project inside another Unity project. Follow the instructions below for opening the VRTK project within the Unity software.
+
+#### Using the Unity Hub
+
+* Open [Unity Hub].
+* Click the `Open` button in the `Projects` tab in Unity Hub.
+* Browse to the local directory where the repository was downloaded to and click `Open` in the file dialog window.
+* The Unity project will now open within the Unity software.
+
+#### Opening from within the Unity software
+
+* Select `Main Menu -> File -> Open Project` within the Unity software.
+* Browse to the local directory where the repository was downloaded to and click `Select Folder` in the file dialog window.
+* The Unity project will now open within the Unity software.
+
+## Tutorials
+
 The current scenes and accompanying YouTube videos are:
 
 * `Assets/Scenes/0001 - Adding a Curved Pointer`
@@ -109,31 +136,21 @@ The current scenes and accompanying YouTube videos are:
   * https://www.youtube.com/watch?v=puHN7CLsgfo
 * `Assets/Scenes/0045 - Limiting Objects To Snap Zones`
   * https://www.youtube.com/watch?v=rmhK305QHqk
+* `Assets/Scenes/0046 - Thumbstick Movement with Axis Move`
+  * https://www.youtube.com/watch?v=yhfer9cXHHc
+* `Assets/Scenes/0047 - Prevent Motion Sickness with a Vignette`
+  * https://www.youtube.com/watch?v=rmMEeJjYXrE
+* `Assets/Scenes/0048 - Prevent Moving into Geometry with PseudoBody`
+  * https://www.youtube.com/watch?v=Q6CgYpAyvY8
+* `Assets/Scenes/0049 - Ignoring Colliders from the PseudoBody`
+  * https://www.youtube.com/watch?v=VdkbnsDNiQw
+* `Assets/Scenes/0050 - Running and Jumping with PseudoBody`
+  * https://www.youtube.com/watch?v=tNHitd4vGwY
+* `Assets/Scenes/0051 - Using the Teleporter with PseudoBody`
+  * https://www.youtube.com/watch?v=2eKooviy6jw
+* `Assets/Scenes/0052 - Climbing on and Around Scenery`
+  * https://www.youtube.com/watch?v=TNP2GZehMc4
 
-## Getting Started
-
-### Downloading the project
-
-* Download this project repository to your local machine using *one* of the following methods:
-  * Git clone the repository with `git clone https://github.com/ExtendRealityLtd/VRTK.Tutorials.YouTube.git`
-  * Download the zip file at `https://github.com/ExtendRealityLtd/VRTK.Tutorials.YouTube/archive/main.zip` and extract it.
-
-### Opening the downloaded project in the Unity software
-
-> *Do not* drag and drop this project download into an existing Unity project. This repository download *is a Unity project* already and you should not nest a Unity project inside another Unity project. Follow the instructions below for opening the VRTK project within the Unity software.
-
-#### Using the Unity Hub
-
-* Open [Unity Hub].
-* Click the `Open` button in the `Projects` tab in Unity Hub.
-* Browse to the local directory where the repository was downloaded to and click `Open` in the file dialog window.
-* The Unity project will now open within the Unity software.
-
-#### Opening from within the Unity software
-
-* Select `Main Menu -> File -> Open Project` within the Unity software.
-* Browse to the local directory where the repository was downloaded to and click `Select Folder` in the file dialog window.
-* The Unity project will now open within the Unity software.
 
 ## License
 
